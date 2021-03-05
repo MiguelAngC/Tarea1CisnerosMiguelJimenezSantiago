@@ -1,4 +1,4 @@
-#Tarea 1 de Microprocesadores y Microcontroladores}
+#Tarea 1 de Microprocesadores y Microcontroladores
 
 def check_char(crt):
     
